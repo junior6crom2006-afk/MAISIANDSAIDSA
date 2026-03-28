@@ -1,0 +1,17 @@
+# Binarios
+darkmax
+*.exe
+
+# Archivos sensibles
+.env
+keys.json.enc
+keys.json.checksum
+encryption.key
+audit.log
+
+# Go
+go.sum
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+[2026-03-26 16:36:00] [INFO] ADMIN_LOGIN @darkmax03: successful admin authentication
+[2026-03-26 16:36:58] [ERROR] AI_FAIL_GROUP @darkmax03: timeout global alcanzado
+[2026-03-26 16:44:27] [INFO] AI_SUCCESS @darkmax03: rank=admin len=434
+[2026-03-26 16:44:49] [INFO] AI_SUCCESS_GROUP @darkmax03: rank=admin len=3286
+[2026-03-26 16:46:22] [INFO] AI_SUCCESS_GROUP @darkmax03: rank=admin len=3238
+[2026-03-26 16:48:01] [INFO] CACHE_HIT_GROUP @darkmax03: usando respuesta cacheada
+[2026-03-26 16:50:03] [INFO] AI_SUCCESS_GROUP @darkmax03: rank=admin len=3819
